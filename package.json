@@ -9,6 +9,7 @@
     "start": "electron app.js"
   },
   "dependencies": {
-    "cat-picture": "^5.1.2"
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "^0.0.10"
   }
 }
