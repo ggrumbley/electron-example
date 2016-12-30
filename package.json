@@ -1,0 +1,14 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "A basic Electron app.",
+  "main": "app.js",
+  "author": "gary <ggrumbley@ucsd.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "dependencies": {
+    "cat-picture": "^5.1.2"
+  }
+}
